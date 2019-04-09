@@ -1,0 +1,5 @@
+# Schema for the configuration files of the ppertheme theme.
+
+ppertheme.settings:
+  type: theme_settings
+  label: 'ppertheme settings'

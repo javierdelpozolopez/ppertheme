@@ -1,0 +1,13 @@
+global-style:
+  version: VERSION
+  css:
+    base:
+      css/ppertheme.base.css: {}
+    layout:
+      css/ppertheme.layout.css: {}
+    component:
+      css/ppertheme.component.css: {}
+    theme:
+      css/ppertheme.theme.css: {}
+  js:
+    js/ppertheme.theme.js: {}
