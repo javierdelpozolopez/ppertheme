@@ -9,7 +9,6 @@
 
   Drupal.behaviors.ppertheme = {
     attach: function () {
-      console.log('hola')
     }
   };
 })(jQuery);
